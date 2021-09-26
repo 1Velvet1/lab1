@@ -1,5 +1,6 @@
 #include "tasks.h"
 
+//Task 1::
 
 double BiggestOfThree(double const& a, double const& b, double const& c) {
 
@@ -8,6 +9,8 @@ double BiggestOfThree(double const& a, double const& b, double const& c) {
 	else { return c; }
 
 }
+
+//Task 2::
 
 void angle(long double k1, long double k2) {
 
